@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Create an axios instance with the base URL
 const api = axios.create({
-  baseURL: 'mongodb+srv://manishpokhriyal667:DeAuth%4099@erpgym24.aafqx.mongodb.net/userdata',
+  baseURL: '',
 });
 
 // User related API calls
